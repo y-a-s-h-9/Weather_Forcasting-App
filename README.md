@@ -38,7 +38,3 @@ To run the weather forecasting app locally, follow these steps:
 ## Weather API
 
 This application uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key and replace the placeholder in the `app.js` file with your actual API key.
-
-## License
-
-This project is open-source and available under the MIT License.
